@@ -1,4 +1,3 @@
-# GhostWatch.io
 ```markdown
 **No browser extensions. No special frameworks. No proprietary tools.**  
 Just standard web APIs: `WebSocket`, `fetch`, `ArrayBuffer`, `TextDecoder`.
