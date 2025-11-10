@@ -1,0 +1,15 @@
+# Ignore node modules across the repo
+**/node_modules/
+node_modules/
+
+# Lockfiles (optional to keep out of repo)
+**/package-lock.json
+package-lock.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
