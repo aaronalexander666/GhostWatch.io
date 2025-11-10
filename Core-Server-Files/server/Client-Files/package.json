@@ -1,0 +1,6 @@
+{
+  "name": "uapf-ghostwatch-client",
+  "dependencies": {
+    "zstd-codec": "^0.2.2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "uapf-ghostwatch-server",
+  "version": "1.0.0",
+  "description": "Universal AI Performance Framework - Server Component",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/chaos.test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "prom-client": "^15.1.0",
+    "ws": "^8.16.0",
+    "zstd-codec": "^0.2.2"
+  }
+}
